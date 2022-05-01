@@ -30,6 +30,7 @@ namespace Course
             }
             */
 
+            //Ex002
             string path = @"c:\temp\file1.txt";
             StreamReader sr = null;
             try
